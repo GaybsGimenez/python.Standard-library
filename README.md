@@ -1,2 +1,2 @@
 # python.satandard-library
-Estudo de módulos 
+Aqui, deixarei os estudo da biblioteca padrão do python 
