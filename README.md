@@ -1,2 +1,2 @@
 # python.satandard-library
-Aqui, deixarei os estudo da biblioteca padrão do python 
+Aqui, deixarei meus estudos da biblioteca padrão do python 
